@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.jee{
+    position: fixed;
+    top: 0px;
+    display: flex;
+    background-color: rgba(0, 0, 0,0.4);
+    width: 100%;
+    height: 63px;
+    z-index: 99;
+}
+.jea{
+    position: fixed;
+    top: 0px;
+    display: flex;
+    background-color: rgb(41, 40, 40);
+    width: 100%;
+    height: 50px;
+    z-index: 99;
+}
+.fli{
+    width: 95px;
+}
+.sear{
+    width: 60%;
+    height: 40px;
+    margin-left: 105px;
+    margin-top: 12px;
+    padding-top: 5px;
+}
+.pla{
+    width: 90%;
+}
+.sig{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.nn{
+    padding: 5px 20px;
+}
+.barb{
+    height: 600px;
+}
+.chh{
+    position: absolute;
+    z-index: 99;
+    margin: 150px 325px;
+}
+.fr{
+    padding: 20px 30px;
+    margin-left: 220px;
+    color: black;
+}
+.fr:hover{
+    color: grey;
+}
+.jog{
+    background-image: url('images/033120190455-by-Henry.2edde7a9\ blue.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.mag{
+    margin-left: 130px;
+}
+.hel{
+    margin-top: -45px;
+}
+.fut{
+    font-size: 13px;
+}
